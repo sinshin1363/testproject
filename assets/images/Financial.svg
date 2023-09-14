@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    enable-background="new -172.387 0.955 600 800"
+    xml:space="preserve"
+    version="1.1"
+    y="0px"
+    x="0px"
+    viewBox="-172.387 0.955 600 800"
+  >
+<rect
+      height="471.46"
+      width="59.197"
+      stroke="#000000"
+      y="329.85"
+      x="88.543"
+      stroke-width="2"
+      fill="#603813"
+  />
+<path
+      stroke="#000000"
+      stroke-width="2"
+      d="m254.23 349.37c0 15.301-12.404 27.703-27.703 27.703h-197.83c-15.298 0.01-27.7-12.39-27.7-27.7v-289.9c0-15.3 12.402-27.704 27.703-27.704h197.82c15.299 0 27.703 12.403 27.703 27.704v289.9z"
+      fill="#FFFFFF"
+  />
+<linearGradient
+      id="SVGID_1_"
+      y2="140.72"
+      gradientUnits="userSpaceOnUse"
+      x2="237.98"
+      y1="140.72"
+      x1="27.506"
+    >
+	<stop
+        style="stop-color:#808080"
+        offset="0"
+    />
+	<stop
+        style="stop-color:#000000"
+        offset="1"
+    />
+</linearGradient
+  >
+<path
+      stroke="#000000"
+      stroke-width="2"
+      d="m27.506 167.84s110.17-53.802 134.83-71.89l-13.152-32.887 88.791 11.511-41.107 107.85-18.902-35.945c-24.664 18.088-134.83 71.89-134.83 71.89"
+      fill="url(#SVGID_1_)"
+  />
+<text
+      font-size="334.41"
+      font-family="'Nina'"
+      transform="matrix(1.1228 0 0 1 27.46 288.77)"
+      fill="#006837"
+    >$</text
+  >
+<linearGradient
+      id="SVGID_2_"
+      y2="228.83"
+      gradientUnits="userSpaceOnUse"
+      x2="145.9"
+      y1="228.83"
+      x1="27.506"
+    >
+	<stop
+        style="stop-color:#808080"
+        offset="0"
+    />
+	<stop
+        style="stop-color:#FF0000"
+        offset="1"
+    />
+</linearGradient
+  >
+<path
+      stroke="#000000"
+      stroke-width="2"
+      d="m27.506 232.63c24.664-9.866 118.39 57.946 118.39 57.946v-77.283s-64.127-49.33-118.39-46.041v65.37z"
+      fill="url(#SVGID_2_)"
+  />
+<text
+      font-size="35.912"
+      font-family="'MyriadPro-Bold'"
+      transform="translate(6.4297 341.15)"
+    >TURN AROUND</text
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Financial Turnaround</dc:title
+        ><dc:date
+          >2009-05-07T01:13:35</dc:date
+        ><dc:description
+          >A road sign indicating a financial turnaround.</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/25816/financial-turnaround-by-magiaaron-25816</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >magiaaron</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >cleanup</rdf:li
+            ><rdf:li
+              >dollars</rdf:li
+            ><rdf:li
+              >finances</rdf:li
+            ><rdf:li
+              >gif</rdf:li
+            ><rdf:li
+              >money</rdf:li
+            ><rdf:li
+              >sign</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
